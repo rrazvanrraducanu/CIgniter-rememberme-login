@@ -1,0 +1,6 @@
+1. php spark make:controller LoginController 
+
+
+2.Config/Routes.php
+
+3. app/Views/login.php
